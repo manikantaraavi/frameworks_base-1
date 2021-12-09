@@ -26,6 +26,11 @@ LOCAL_REQUIRED_MODULES := \
 	DisplayCutoutEmulationTallOverlay \
 	DisplayCutoutEmulationWaterfallOverlay \
 	FontNotoSerifSourceOverlay \
+        IconPackPUIAndroidOverlay \
+        IconPackPUILauncherOverlay \
+        IconPackPUISettingsOverlay \
+        IconPackPUISystemUIOverlay \
+        IconPackPUIThemePickerOverlay \
 	NavigationBarMode3ButtonOverlay \
 	NavigationBarModeGesturalOverlay \
 	NavigationBarModeGesturalOverlayNarrowBack \
